@@ -99,9 +99,6 @@ public class NotificationService extends Service {
 					messageIntent.putExtra("type", 0);
 					messageIntent.putExtra("name", "最新消息");
 
-//					messagePendingIntent = PendingIntent.getActivity(
-//							NotificationService.this, 0, messageIntent,
-//							PendingIntent.FLAG_UPDATE_CURRENT);
 					messagePendingIntent = PendingIntent.getActivity(NotificationService.this, 0, messageIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
 					Notification.Builder builder = new Notification.Builder(NotificationService.this).setTicker(contentTitle)
