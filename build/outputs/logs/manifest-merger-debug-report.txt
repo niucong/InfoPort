@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:2:1-74:12
+	xmlns:android
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:3:5-35
+	android:versionName
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Android\MyProject\InfoPort\AndroidManifest.xml
+		INJECTED from C:\Android\MyProject\InfoPort\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Android\MyProject\InfoPort\AndroidManifest.xml
+		INJECTED from C:\Android\MyProject\InfoPort\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:7:5-44
+MERGED from [InfoPort:Afinal2:unspecified] C:\Android\MyProject\InfoPort\build\intermediates\exploded-aar\InfoPort\Afinal2\unspecified\AndroidManifest.xml:5:5-7:40
+	android:targetSdkVersion
+		ADDED from [InfoPort:Afinal2:unspecified] C:\Android\MyProject\InfoPort\build\intermediates\exploded-aar\InfoPort\Afinal2\unspecified\AndroidManifest.xml:7:9-37
+	android:minSdkVersion
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:7:15-41
+application
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:9:5-61:19
+	android:label
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:10:9-38
+	android:theme
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:13:9-56
+	android:hardwareAccelerated
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:12:9-43
+activity#com.niucong.infoport.WelcomeActivity
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:15:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:20:27-74
+activity#com.niucong.infoport.InfoPortActivity
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:23:9-25:52
+	android:screenOrientation
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:24:13-45
+activity#com.niucong.infoport.PaymentActivity
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:27:13-44
+activity#com.niucong.infoport.AppActivity
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:29:9-31:52
+	android:screenOrientation
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:30:13-40
+activity#com.niucong.infoport.ReadViewsActivity
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:33:13-46
+service#com.niucong.infoport.service.NotificationService
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:36:9-43:19
+	android:process
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:39:13-38
+	android:exported
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:37:13-56
+intent-filter#.service.NotificationService
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:40:13-42:29
+action#.service.NotificationService
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:41:17-71
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:41:25-68
+receiver#com.niucong.infoport.receiver.BootBroadcastReceiver
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:46:9-50:20
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:46:19-65
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:47:13-49:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:48:17-79
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:48:25-76
+uses-library#android.test.runner
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:53:9-60
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:53:23-57
+meta-data#UMENG_APPKEY
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:55:9-57:56
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:56:13-40
+	android:value
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:57:13-53
+meta-data#UMENG_CHANNEL
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:58:9-60:37
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:59:13-41
+	android:value
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:60:13-34
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:63:5-81
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:63:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:64:5-79
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:64:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:65:5-67
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:65:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:66:5-75
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:66:22-72
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:69:5-72:56
+	android:label
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:71:9-41
+	android:targetPackage
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:72:9-53
+	android:name
+		ADDED from C:\Android\MyProject\InfoPort\AndroidManifest.xml:70:9-62

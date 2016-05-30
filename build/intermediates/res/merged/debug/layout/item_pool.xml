@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="5dp" >
+
+    <TextView
+        android:id="@+id/item_pool_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="农业银行"
+        android:textColor="#000000"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/item_pool_inTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="2013/01/01"
+        android:textColor="#000000"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/item_pool_inPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="2.4"
+        android:textColor="#000000"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/item_pool_outTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="2013/07/29"
+        android:textColor="#ff0000"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/item_pool_outPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="2.4"
+        android:textColor="#ff0000"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/item_pool_context"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="详情"
+        android:textColor="#0000ff"
+        android:textSize="12dp" />
+
+</LinearLayout>

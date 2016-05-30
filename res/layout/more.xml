@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/info_buttom_main"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/more_item_b"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/main_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/main_b" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="首页" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_buttom_app"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/more_item"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/app_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/app" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="应用" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_buttom_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/more_item"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/setting_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/setting" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_buttom_about"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/more_item"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/about_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/about" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="关于" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_buttom_my"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/more_item"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/my_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/my" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我" />
+    </LinearLayout>
+
+    <!--
+    <Button
+        android:id="@+id/info_buttom_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:background="@drawable/bar_bg"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="首				页"
+        android:textColor="#ffffff"
+        android:textSize="16dp" />
+
+    <Button
+        android:id="@+id/info_buttom_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:background="@drawable/bar_bg"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="我的设置"
+        android:textColor="#ffffff"
+        android:textSize="16dp" />
+
+    <Button
+        android:id="@+id/info_buttom_about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:background="@drawable/bar_bg"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="关于信息港"
+        android:textColor="#ffffff"
+        android:textSize="16dp" />
+
+    <Button
+        android:id="@+id/info_buttom_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:background="@drawable/bar_bg"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="退				出"
+        android:textColor="#ffffff"
+        android:textSize="16dp" />
+    -->
+
+</LinearLayout>

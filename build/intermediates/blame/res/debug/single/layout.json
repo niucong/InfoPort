@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\app.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\app.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\my.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\my.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\item_pool.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\item_pool.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info_port.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\activity_info_port.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\read.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\read.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\more.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\activity_read_view.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\activity_read_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\foot.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\foot.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\item_info.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\item_info.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\ad.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\ad.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\activity_app.xml"
+    },
+    {
+        "merged": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Android\\MyProject\\InfoPort\\res\\layout\\about.xml"
+    }
+]

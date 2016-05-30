@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="C:\Android\MyProject\InfoPort\build\intermediates\exploded-aar\InfoPort\Afinal2\unspecified\assets"/></dataSet><dataSet config="main"><source path="C:\Android\MyProject\InfoPort\assets"/><source path="C:\Android\MyProject\InfoPort\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Android\MyProject\InfoPort\build-types\debug\assets"/></dataSet></merger>

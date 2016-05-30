@@ -1,0 +1,562 @@
+[
+    {
+        "outputFile": "C:\\Android\\MyProject\\InfoPort\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 43,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 43,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1030,
+                        "endColumn": 40,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 36,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 36,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 49,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 38,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 38,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 40,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 40,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 47,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1072,
+                        "endColumn": 44,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 35,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 35,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 41,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 41,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 42,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 42,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 44,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 44,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 39,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 39,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 47,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 47,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 44,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 44,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 44,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 44,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 43,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 43,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 37,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 37,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 48,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 983,
+                        "endColumn": 45,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 48,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 48,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endColumn": 41,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 41,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 41,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 41,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 47,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 47,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 47,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 47,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 39,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 39,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 57,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 55,
+                    "endOffset": 1211
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1216,
+                    "endColumn": 42,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1545
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1550,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "C:\\Android\\MyProject\\InfoPort\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

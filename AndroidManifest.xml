@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.niucong.infoport"
+    android:versionCode="6"
+    android:versionName="2.0" >
+
+    <uses-sdk android:minSdkVersion="16" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:hardwareAccelerated="true"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name=".WelcomeActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".InfoPortActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AppActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ReadViewsActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name=".service.NotificationService"
+            android:exported="true"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name=".service.NotificationService" />
+            </intent-filter>
+        </service>
+
+        <!-- 启动service广播,开机启动广播 -->
+        <receiver android:name=".receiver.BootBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 使用测试包 -->
+        <uses-library android:name="android.test.runner" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="52032b6656240b0e7a0032cb" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Umeng" />
+    </application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 测试 -->
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:label="Tests for My App"
+        android:targetPackage="com.niucong.infoport" />
+
+</manifest>

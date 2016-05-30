@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="auto_link">#0168dc</color>
+    <color name="bg_header">#f7f9fb</color>
+    <color name="black">#000</color>
+    <color name="black_trans20">#cf000000</color>
+    <color name="blue">#1C75BC</color>
+    <color name="coffee">#9B8579</color>
+    <color name="driver_c9caca">#c9caca</color>
+    <color name="gray">#555</color>
+    <color name="gray_light">#aaa</color>
+    <color name="graytext">#555555</color>
+    <color name="graytext_1">#BCBEC0</color>
+    <color name="green">#62a723</color>
+    <color name="green_arraw">#888DC63F</color>
+    <color name="menu_gap_1">#333030</color>
+    <color name="menu_gap_2">#231f20</color>
+    <color name="more_text">#7b7b7b</color>
+    <color name="red">#d50101</color>
+    <color name="shadow_black">#bb040404</color>
+    <color name="shadow_white">#bbffffff</color>
+    <color name="text_32">#323232</color>
+    <color name="text_57">#323232</color>
+    <color name="translucent">#75000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">国诚信息港</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

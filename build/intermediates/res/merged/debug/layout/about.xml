@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="\t\t《国诚信息港》是CCTV证券资讯频道联手深圳市国诚投资咨询有限公司倾情打造的国内一流的投资资讯终端。 \n\t\t“CCTV 证券资讯频道”是由中央电视台控股，中央新影数字传媒有限公司运营管理的大型现代传媒企业，注册资本为 1.2 亿元。是经国家广播电视总局批准的，在全国范围播出的数字电视付费频道，也是一家可以辐射全国、制作并提供证券资讯节目的数字专业化频道。\n\t\t深圳市国诚投资咨询有限公司是经中国证监会批准，获颁证券投资咨询资格的专业咨询机构（执业编号ZX0180）， 主要从事证券投资咨询、投资银行等业务。致力于为机构和中小投资者提供专业的证券投资咨询以及理财规划服务，帮助客户实现资产的保值增值。"
+                android:textColor="#000000"
+                android:textSize="15dp" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="国诚服务监督电话："
+                    android:textColor="#000000"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:autoLink="phone"
+                    android:text="4008-777-898"
+                    android:textColor="#000000"
+                    android:textSize="21dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

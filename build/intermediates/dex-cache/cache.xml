@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\MyProject\InfoPort\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="C:\Android\MyProject\InfoPort\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_c5eb2e480a706b175d7019d1d4f32258cf763d7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\MyProject\InfoPort\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bfaafb26799d8439c0d3186f636d650ae1f1a8b">
+        <dex dex="C:\Android\MyProject\InfoPort\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ce4552c27c4f7f6c81895e0c8f8533214c650510\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\MyProject\InfoPort\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d2777292e80f50e3e473fd763fcfeba168438e1">
+        <dex dex="C:\Android\MyProject\InfoPort\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_234f07300042bcd105eb4f6e40a5794d773d5ab2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\MyProject\InfoPort\libs\umeng_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="802c0ce4e6c5a3f1e446835823768df7a2a851c5">
+        <dex dex="C:\Android\MyProject\InfoPort\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_sdk_a79963168febf44c1c37f77fe33d76f7e447bafd\classes.dex" />
+    </item>
+
+</items>
