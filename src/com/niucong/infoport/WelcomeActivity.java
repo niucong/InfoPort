@@ -23,6 +23,7 @@ public class WelcomeActivity extends UMengActivity {
 
 	private AppSharedPreferences preferences;
 
+	// 开机动画开始时间
 	private long lon0;
 
 	@Override
